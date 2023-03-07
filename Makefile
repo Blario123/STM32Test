@@ -2,7 +2,7 @@ CC := gcc
 
 CFLAGS := -g
 
-SUBDIRS := structTest sixteenBit
+SUBDIRS := structTest sixteenBit PID
 
 .PHONY: $(SUBDIRS)
 
